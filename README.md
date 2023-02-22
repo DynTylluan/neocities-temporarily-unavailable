@@ -1,6 +1,6 @@
 # Neocities is temporarily unavailable
 
-As with a lot of websites, [Neocities](https://neocities.org) can have times of upgrading and undergoing maintenance, when they do, this page is shown for all of `neocities.org/` pages. Subdomains, so `*.neocities.org` (for example `your-site.neocities.org`) are not affected.
+As with a lot of websites, [Neocities](https://neocities.org) can have times of upgrading and undergoing maintenance, when they do, this page is shown for all of `neocities.org/` pages. Subdomains, so `*.neocities.org` (for example `your-site.neocities.org`), are not affected.
 
 For some reason, this is not on [the official git for Neocities](https://github.com/neocities), so it is mirrored here.
 
